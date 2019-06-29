@@ -28,3 +28,5 @@ run script regen.sh
 ```docker rmi "nom_image"``` : Remove image
 
 ### Install the package with pip, then Use pip freeze > requirements.txt
+
+Elasticsearch and front not in docker.
